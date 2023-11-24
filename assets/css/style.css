@@ -53,7 +53,7 @@ body {
 .input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 2px solid #ffe136;
+    border-bottom: 2px solid #36a5ff;
     font-size: 1rem;
     border-radius: 2px;
     padding: 5px;
@@ -62,11 +62,11 @@ body {
 
 .input-field input:focus {
     outline: none;
-    border-bottom: 3px solid #ffe136;
+    border-bottom: 3px solid #36a5ff;
 }
 
 #generate {
-    background-color: #ffe136;
+    background-color: #36a5ff;
     border: none;
     padding: 12px 20px;
     border-radius: 4px;
